@@ -2,10 +2,14 @@
 
 Homework assignment for UCI Coding Bootcamp. 
 
-##Objective 
+## Objective 
 
 Build a wireframe using flexbox properties.
 
-##Contributions 
+![](assets/readmeimage.png)
 
-No contributions are needed. Project is complete. 
+Assignment is Complete. 
+
+## Author
+
+Erica Parra
